@@ -1,4 +1,11 @@
 # quiz_proz
+
+Projeto Desenvolvido no Curso de Introdução a Cloud da Escola PROZ;
+Prosposta de Iniciação de Estudos na Linguagem Python, na qual foi desenvolvido um quiz com perguntas em Inglês;
+Utilizamos Visual Studio Code para Desenvolvimento do projeto;
+
+
+
 print(" Teste de Inglês - Nivelamento de Turmas - Boa Sorte! ")
 answer_quiz = input(" Você está preparado(a)? Podemos começar o Teste S/N? ")
 
